@@ -1,6 +1,4 @@
-# Amazon_Global_Sales_Analytics_Power-BI_Project
-
-Amazon Global Sales Analytics Dashboard | Power BI Project
+# Amazon Global Sales Analytics Dashboard | Power BI Project
 
 Objective: To analyze Global e-commerce performance sales distribution, profitability, and customer behavior across segments, regions, and markets using Power BI’s interactive features
 
